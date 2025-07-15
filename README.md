@@ -1,5 +1,18 @@
 # Hospital-Wait-Time-Performance-Report
 
+## 📊 TL;DR – Project Summary
+
+**Goal**: Identify ED wait time inefficiencies across hospitals using Medicare's Timely and Effective Care data.  
+**Tools**: SQL (data cleaning & aggregation), Power BI (interactive dashboard).  
+**Outcome**: Created a dynamic report highlighting patient bottlenecks, regional trends, and hospital performance rankings to improve staffing, throughput, and patient satisfaction.
+
+## 🛠️ Skills Demonstrated
+
+- SQL: Data cleaning, aggregation, and filtering of CMS hospital metrics
+- Power BI: Interactive dashboards, conditional formatting, map & scatter visuals
+- Business Insight: Translating raw data into operational improvement strategies
+- Healthcare Domain Knowledge
+
 ## Project Background 
 
 ###  Project Request: Hospital Wait Time Performance Report
